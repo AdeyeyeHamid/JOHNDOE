@@ -1,0 +1,309 @@
+
+#icon-list{
+  float: right;
+  overflow: hidden;
+  background-color: white;
+  position: relative;
+}
+
+#icon-list #myLinks {
+  float: left;
+  display: none;
+}
+
+#icon-list a {
+  float: right;
+  color:black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+#icon-list a.icon {
+  color: red;
+  float:left;
+}
+#icon-list a:hover {
+  color: #F37878;
+}
+  .home{
+    width: 16px;
+    display: block;
+    margin-left: 15px;
+  }
+  #js{
+    background-color: white;
+    overflow: hidden;
+    border-bottom: 3px solid red;
+  }
+  #js a {
+  background-color: #F37878;
+  }
+  .j{
+    margin-top: 30%;
+    display: inline;
+    font-family: "Montserrat-black";
+  }
+  .o{
+    display: inline;
+    color: red;
+    font-family: "Montserrat-black";
+  }
+  .hn{
+    display: inline;
+    font-family: "Montserrat-black";
+  }
+.d{
+    color: #CFD2CF;
+  display: inline;
+  font-family: "Montserrat-black";
+}
+.do{
+    display: inline;
+  color:yellow;
+  font-family: "Montserrat-black";
+}
+.e{
+    color: #CFD2CF;
+  display: inline;
+  font-family: "Montserrat-black";
+}
+.carousel-inner{
+    margin-left: 10%;
+    font-size: 30px;
+}
+.second-container{
+  padding-top: 6%;
+    margin-top: 30%;
+    height: 290px;
+    background-color:#F37878;
+    width: 100%;
+}
+.alittle{
+  color: white;
+   font-size: 20px;
+   display: inline;
+}
+.aboutme{
+    font-size: 20px;
+    display: inline;
+    color: yellow;
+}
+.me{ 
+  color: white;
+    font-size: 20px;
+    display: inline;
+}
+.someTexts{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+}
+.work{
+    width: 80px;
+}
+.new1{
+    width: 80px;
+}
+.camera{
+  text-align: center;
+  width: 20%;
+ margin-left: 40%;
+}
+.i-do{
+  padding-left: 33%;
+  font-size: 22px;
+}
+.someText{
+  font-size: 15px;
+  padding: 5%;
+  text-align: center;
+}
+.text{
+  font-size:19px ;
+  padding: 5%;
+  text-align: center;
+}
+.container2{
+  width: 100%;
+  
+}
+.image{
+  width: 50%;
+}
+.design{
+background-color: #F37878;
+font-size: 15px;
+display: inline;
+}
+#class{
+  padding-left:15%;
+  padding-right:15%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+.row1{
+  width: 100%;
+  background-color: #F37878;
+  height: 380px;
+}
+.arrow{
+  padding-top: 5%;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.waterfall{
+  text-decoration: none;
+  color: yellow;
+}
+.john{
+  font-size: 100px;
+  padding-top: 11%;
+  margin-left: 10%;
+  padding-bottom: 11%;
+  text-transform: uppercase;
+}
+.web{
+text-align: center;
+}
+.what{
+  display: inline;
+}
+.p{
+  text-align: center;
+  padding: 7% 15%;
+}
+.icon3{
+  margin-left: 4%;
+  margin-bottom: 11%;
+  margin-top: 25%;
+}
+.bruv{
+  padding-left: 3%;
+  padding-top: 8%;
+  background-color: #F37878;
+  margin-top: 11% ;
+  padding-bottom: 6%;
+}
+.bruv1{
+  padding-top: 6%;
+  padding-left: 3%;
+  background-color: white;;
+  padding-bottom: 6%;
+}
+.bruv2{
+  padding-left: 3%;
+  padding-top: 8%;
+  background-color: #F37878;
+  padding-bottom: 2%;
+}
+.about-image{
+  height:80%;
+  width: 100%;
+  margin-top: 23%;
+  background-color: #F37878;
+  }
+ .about-image1{
+  height:100%;
+  width: 100%;
+  background-color: #F37878;
+  margin-top: 1%;
+  margin-bottom: 3%;
+   }
+
+.about-image2{
+   height:100%;
+   width: 100%;
+   background-color: #F37878;
+   }
+    .imagesForProject{
+      margin-top: 30%;
+    }
+    .recent{
+      font-size: 17px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  .Porojects{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1%;
+  }
+  .grayscale{
+    margin-top: 40%;
+    -webkit-filter: grayscale(100%);
+    width: 100%;
+  }
+.container:hover .grayscale{
+  -webkit-filter: grayscale(0%);
+
+}
+.container6{
+  margin-top: 30%;
+  background-color: #F37878;
+  width: 100%;
+}
+.btn{
+ margin-top: 15%;
+ margin-bottom: 5%;
+}
+.row{
+  width: 100%;
+  text-align: center;
+}
+.row:hover .grayscale1{
+  -webkit-filter: grayscale(0%);
+
+}
+.row:hover .grayscale2{
+  -webkit-filter: grayscale(0%);
+
+}
+.row:hover .grayscale3{
+  -webkit-filter: grayscale(0%);
+
+}
+
+.grayscale1{
+  margin-top: 40%;
+  -webkit-filter: grayscale(100%);
+  width: 100%;
+}
+.grayscale2{
+  margin-top: 40%;
+  -webkit-filter: grayscale(100%);
+  width: 60%;
+}
+.grayscale3{
+  margin-top: 40%;
+  -webkit-filter: grayscale(100%);
+  width: 70%;
+}
+.texts{
+  font-size: 17px;
+padding-top: 10%;
+}
+.client{
+  padding-top: 16%;
+  padding-bottom: 6%;
+}
+.client-image{
+  height:400px;
+  width: 104%;
+  margin-top: 0%;
+  }
+  .container9{
+    margin: 0%;
+    background-color: #F37878;
+    padding: 6%;
+  }
+  .clientImage{
+    height:400px;
+    width: 107%;
+    }
+    .sub{
+      font-size: 19px;
+      padding-bottom: 6%;
+    }
